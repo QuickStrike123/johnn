@@ -1,0 +1,31 @@
+body{
+
+    background-color: yellowgreen;
+
+}
+
+#show_sketch{
+
+    float: right;
+
+}
+
+h1{
+
+    background-color: cornsilk;
+
+    color: black;
+
+}
+
+#Score{
+
+    float: left;
+
+}
+
+#timer{
+
+    float: right;
+
+}
